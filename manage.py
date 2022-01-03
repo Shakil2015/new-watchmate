@@ -1,1 +1,3 @@
-print('fuck you')
+
+for i in range(5):
+    print(i)
